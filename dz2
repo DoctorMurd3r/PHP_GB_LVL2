@@ -1,0 +1,13 @@
+<?php
+abstract class Good{
+    private $name;
+}
+class physicGood extends Good{
+    
+}
+class digitalGood extends Good{
+    
+}
+class weightGood extends Good{
+    
+}
